@@ -59,9 +59,6 @@ echo ""
 echo -e "\033[1;37m◈────⪧ ✿ ✿ ONIMUSHA ✿ ✿ ⪦────◈"
 echo ""
 echo "------------------------------------"
-printf       "သိမ့်သဉ္ဇာစိုးကောင်မ "
+printf       "TTZS❤️"
 echo "------------------------------------"
-echo ""
-echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
-echo url="https://www.duckdns.org/update?domains=onimushafreegcp&token=8f844cfc-2e4b-4792-9e92-df997ddd6c6c&ip=" | curl -k -o ~/duckdns/duck.log -K -
 echo url="https://www.duckdns.org/update?domains=onimushagcp&token=8f844cfc-2e4b-4792-9e92-df997ddd6c6c&ip=" | curl -k -o ~/duckdns/duck.log -K -
