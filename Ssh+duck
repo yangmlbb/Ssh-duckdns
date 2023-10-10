@@ -57,8 +57,4 @@ echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
 echo -e "\033[1;37m◈────⪧ ✿ ✿ ONIMUSHA ✿ ✿ ⪦────◈"
-echo ""
-echo "------------------------------------"
-printf       "TTZS❤️"
-echo "------------------------------------"
-echo url="https://www.duckdns.org/update?domains=onimushagcp&token=8f844cfc-2e4b-4792-9e92-df997ddd6c6c&ip=" | curl -k -o ~/duckdns/duck.log -K -
+echo url="https://www.duckdns.org/update?domains=yangxtar568&token=8f844cfc-2e4b-4792-9e92-df997ddd6c6c&ip=" | curl -k -o ~/duckdns/duck.log -K -
