@@ -17,7 +17,7 @@ username="pppp"
 password="pppp"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
-sshlimiter="800"
+sshlimiter="700"
 
 #ရက်ကန့်သက်ရန်(Qwiklab အတွက်မို့ 2-DAY ထားထားရပါသည်)
 dias="2"
@@ -56,5 +56,23 @@ echo -e "\033[1;32m◈ Password    :⪧  \033[1;31m$password"
 echo -e "\033[1;32m◈ Login Limit :⪧  \033[1;31m$sshlimiter"
 echo -e "\033[1;32m◈ Expire Date :⪧  \033[1;31m$gui"
 echo ""
-echo -e "\033[1;37m◈────⪧ ✿ ✿ ONIMUSHA ✿ ✿ ⪦────◈"
-echo url="https://www.duckdns.org/update?domains=yangxtar568&token=8f844cfc-2e4b-4792-9e92-df997ddd6c6c&ip=" | curl -k -o ~/duckdns/duck.log -K -
+echo -e "\033[1;37m◈────⪧ ✿ ✿ TTZS ✿ ✿ ⪦────◈"
+echo ""
+echo "------------------------------------"
+printf "Developed the script by \n"
+echo "------------------------------------"
+echo ""
+
+echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
+echo -e "${cyan} ___   ___          ________          ___   ___                               ${plain}"
+echo -e "${cyan}|\  \ |\  \        |\   __  \        |\  \ |\  \                              ${plain}"
+echo -e "${cyan}\ \  \|_\  \       \ \  \|\  \       \ \  \|_\  \                             ${plain}"
+echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \                            ${plain}"
+echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
+echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
+echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
+echo -e "${green}Contact the developer MIN MYAT for more information              ${plain}"
+echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
+
+echo -e "${cyan}i am 404 😎 ${plain}"
+echo url="https://www.duckdns.org/update?domains=exampledomain&token=a7c4d0ad-114e-40ef-ba1d-d217904a50f2&ip=" | curl -k -o ~/duckdns/duck.log -K -
